@@ -1,35 +1,31 @@
 package advance1Day2.assignment15;
 
 public class Customer {
-    private int customerId;
-    private String customerName;
-    private String customerAddress;
+    private int customerID;
+    private String cutomerName, customerAddress;
     private int pincode;
 
-    public Customer() {
-    }
-
-    public Customer(int customerId, String customerName, String customerAddress, int pincode) {
-        this.customerId = customerId;
-        this.customerName = customerName;
+    public Customer(int customerID, String cutomerName, String customerAddress, int pincode) {
+        this.customerID = customerID;
+        this.cutomerName = cutomerName;
         this.customerAddress = customerAddress;
         this.pincode = pincode;
     }
 
-    public int getCustomerId() {
-        return customerId;
+    public int getCustomerID() {
+        return customerID;
     }
 
-    public void setCustomerId(int customerId) {
-        this.customerId = customerId;
+    public void setCustomerID(int customerID) {
+        this.customerID = customerID;
     }
 
-    public String getCustomerName() {
-        return customerName;
+    public String getCutomerName() {
+        return cutomerName;
     }
 
-    public void setCustomerName(String customerName) {
-        this.customerName = customerName;
+    public void setCutomerName(String cutomerName) {
+        this.cutomerName = cutomerName;
     }
 
     public String getCustomerAddress() {

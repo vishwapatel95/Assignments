@@ -5,7 +5,7 @@ public class Account {
     private Customer customer;
     protected double balance;
 
-    public Account() {
+    Account() {
     }
 
     public Account(int accountNo, Customer customer, double balance) {
@@ -18,11 +18,13 @@ public class Account {
         return customer;
     }
 
-    public double balanceEnquiry(){
-        return this.balance;
+    public double balanceInquiry() {
+        return balance;
     }
 
-    public void deposit(double amount){
-        this.balance = this.balance + amount;
+    public void deposit(double amount) {
+
+        balance = balance + amount;
+        System.out.println("Balance Deposited and balance is : : " + balance);
     }
 }

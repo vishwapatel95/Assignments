@@ -8,15 +8,17 @@ public class EmployeeInfo {
         Employee employee = new Employee();
         employee.setEmployeeId(11212);
         employee.setEmployeeName("Patel");
-        Calendar calendar = new GregorianCalendar(2000,Calendar.JANUARY,25);
+        Calendar calendar = GregorianCalendar.getInstance();
+        calendar.set(2000,Calendar.JANUARY,25);
         employee.setDateOfBirth(calendar);
 
 
         Employee employee2 = new Employee();
-        employee.setEmployeeId(112124);
-        employee.setEmployeeName("Patel");
-        Calendar calendar1 = new GregorianCalendar(2000,Calendar.JANUARY,25);
-        employee.setDateOfBirth(calendar);
+        employee2.setEmployeeId(112124);
+        employee2.setEmployeeName("Patel2");
+        Calendar calendar1 = new GregorianCalendar(2000, Calendar.JANUARY, 25);
+        calendar1.set(12,12,12);
+        employee2.setDateOfBirth(calendar1);
 //
 //        Employee employee3 = new Employee();
 //        employee.setEmployeeId(11212);
@@ -31,8 +33,9 @@ public class EmployeeInfo {
 //        employee.setDateOfBirth(calendar);
 
         list.add(employee);
+        list.add(employee2);
 
-        Arrays.asList(list);
+        //Arrays.asList(list);
 //        list.add(employee2);
 //        list.add(employee3);
 //        list.add(employee4);
@@ -42,13 +45,11 @@ public class EmployeeInfo {
 //        while (listIterator.hasNext()){
 
 
+        for (Employee employee3 : list) {
+            System.out.println(employee3.employeeId + "\n" +
+                    employee3.employeeName + "\n" +
+                    employee3.getDateOfBirth().getTime());
 
-//        for (Employee employee3 : list){
-//            System.out.println(employee3.employeeId + "\n" +
-//                                employee3.employeeName + "\n" +
-//                                employee3.getDateOfBirth());
-
-
-
-}
+        }
+    }
 }

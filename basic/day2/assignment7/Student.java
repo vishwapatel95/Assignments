@@ -1,4 +1,4 @@
-package basic.day2.assignment5;
+package basic.day2.assignment7;
 
 public class Student {
     private int studentId;

@@ -7,12 +7,10 @@ import java.lang.reflect.Modifier;
 public class TestReflection {
     public static void main(String[] args) {
         try {
-            // create class object
             Class classobj = Employee.class;
 
-            // get list of methods
             Method[] methods = classobj.getMethods();
-//            System.out.println(classobj.getModifiers());
+//
 
 //             get the name of every method present in the list
             for (Method method : methods) {
@@ -33,10 +31,7 @@ public class TestReflection {
 
 //            System.out.println();
 
-//            int guru99AccessModifier= classobj.getModifiers();
-//            // Print the access modifiers
-//            System.out.println("Access modifiers of the class are : " +Modifier.toString(guru99AccessModifier));
-
+//
             Field[]  Field1= classobj .getFields();
             Field[]  Field2= classobj.getDeclaredFields();
 

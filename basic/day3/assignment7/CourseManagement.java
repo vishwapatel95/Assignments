@@ -10,6 +10,7 @@ public class CourseManagement {
         long hostelAdd = Long.parseLong(args[5]);
 
         Student student = new Student();
+
         student.setStudentId(studentId);
         student.setStudentName(fname, lname);
         student.setResidentialStatus(residentStatus);

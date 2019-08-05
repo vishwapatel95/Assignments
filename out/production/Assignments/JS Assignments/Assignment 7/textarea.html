@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Text size</title>
+	<script type="text/javascript">
+		function checkSize(){
+			console.log("changed")
+			if (document.getElementById("feed").value.length > 5) {
+				alert("Enter character below 65");
+			}else{
+				 document.getElementById("feed").innerHTML = "You wrote: " + x;
+			}
+		}
+	</script>
+</head>
+<body>
+
+	<input type="text" name="txt1" value="" id="feed" onchange="checkSize()" >
+</body>
+</html>

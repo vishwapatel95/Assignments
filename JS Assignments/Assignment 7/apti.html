@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Multiple Choice</title>
+	
+</head>
+<body>
+	<form name="frm1">
+	<h2 align="center"> QUESTIONS </h2>
+	<h3 align="center"> What is the Minimum balance for a salary Account in Infy Bank?</h3>
+
+	<p align="center">
+	<input type="radio" name="rad" value="1000" checked="true">1000.00
+	<input type="radio" name="rad" value="0.00">0.00
+	<input type="radio" name="rad" value="100.00" >100.00
+	<input type="radio" name="rad" value="NOT ANSWERED">NOT ANSWERED<br>
+
+	<input type="submit" name="submit" onclick="checkBox()">
+
+	<script type="text/javascript">
+		function checkBox(){
+			var result = document.getElementsByName("rad");
+
+			for (var i = 0; i < result.length; i++) {
+				if (result[i].value == "1000" && result[i].checked) {
+					alert("You answered right");
+					break;
+				}else{
+					alert("Minimum should be 1000");
+					break;
+				}
+			}
+		}
+	</script>
+	</p>
+
+</form>
+</body>
+</html>

@@ -1,255 +1,287 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6586a1e8-12a7-4e56-8f68-5f2323f4e0aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/day2/assignment7/PassByVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/day2/assignment7/Student.java" afterDir="false" />
+    <list default="true" id="20693f45-23ae-4c0f-81f0-6c45d3cb86ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/AccountFileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/AccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/CustomerFileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/CustomerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/Readdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment2/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment3/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance3/assignment3/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advance1/assignment7.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance1/assignment7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/day2/assignment5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/day2/assignment5/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance1Day3/assignment32/TestReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance1Day3/assignment32/TestReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance2/assignment6/WellsBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/advance2/assignment6/WellsBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/day3/assignment7/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/basic/day3/assignment7/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/day3/assignment7/CourseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/day3/assignment7/CourseManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/day3/assignment7/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/basic/day3/assignment7/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Assignments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/Test/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/Test/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/Test/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/Test/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/Assignment4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10b/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10b/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10b/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10b/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10c/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10c/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10c/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10c/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10d/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10d/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10d/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment10d/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment11/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment11/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment11/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment11/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/NonSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/NonSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Salary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment5/Salary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment8/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment8/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment8/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment8/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment9/EmployeeGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment9/EmployeeGrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment9/Wells.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1/assignment9/Wells.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment1314/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment15/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment16/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment17/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/AnimalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/AnimalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/Hippo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/PetAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment18/PetAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/account/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/customer/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/com/Wellsbank/customer/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment19/demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package1/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package1/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package1/Child1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package1/Child1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package2/Child2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment20/package2/Child2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment22/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment22/EmployeeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment23/ExceptionHandlingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment23/ExceptionHandlingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment24/ExceptionHandlingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment24/ExceptionHandlingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/com/exception/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/com/exception/CheckedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/com/exception/ExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment25/com/exception/ExceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/InsufficientBalanceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/InsufficientBalanceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/OverDraftAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/OverDraftAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment26/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment8/Loan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment8/Loan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment8/TestLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day2/assignment8/TestLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment27/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment27/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment28/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment28/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment28/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment28/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment29/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment29/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment29/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment29/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment30/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment30/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment30/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment30/EmployeeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment31/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment31/EmployeeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment32/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment32/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment32/TestReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment32/TestReflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment33/StringMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment33/StringMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment33/TestStringMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance1Day3/assignment33/TestStringMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment1/AddCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment1/AddCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment2/EntrySet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment2/EntrySet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment3/com/WellsBank/login/LoginDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment3/com/WellsBank/login/LoginDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/CustomerDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/CustomerDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment4/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment5/Debug.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment5/Debug.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/DepositTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/DepositTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/InsufficientBalanceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/InsufficientBalanceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Security.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/Security.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/UnAuthorizedWithdrawTransactionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/UnAuthorizedWithdrawTransactionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/WithdrawTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment6/WithdrawTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/DepositTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/DepositTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/InsufficientBalanceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/InsufficientBalanceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Security.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/Security.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/UnAuthorizedWithdrawTransactionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/UnAuthorizedWithdrawTransactionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/WellsBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/WellsBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/WithdrawTransaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/advance2/assignment7/WithdrawTransaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day1/Assignment8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/Assignment8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment4/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment4/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment4/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment4/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment5/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment5/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment5/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment5/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment7/PassByVal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment7/PassByVal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment7/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment7/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment9/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/assignment9/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/Example5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/SwitchCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day2/selfReview/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/Assignment6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment1/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment1/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment4/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment4/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment4/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment4/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment7/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment7/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment7/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment7/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment8/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment8/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment8/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/assignment8/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/SelfReview6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/Selfreview4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/Selfreview4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/thisExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day3/selfReview/thisExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/Hostelite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/Hostelite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/Hostelite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/Hostelite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/Hostelite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/Hostelite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment3/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/CourseReg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/CourseReg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment4/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/PostGraduateStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/PostGraduateStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment5/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/DynamicEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/DynamicEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment6/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment7/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/CourseManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/CourseManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/Hostelite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/Hostelite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/assignment8/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Child4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/ClassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/CourseMgmt4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day4/selfReview/SelfReview5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Assignment3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Assignment3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/InterOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/InterOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/DayScholar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/DayScholar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/Registration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/studentpack/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/assignment1/registrationpack/studentpack/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/strings/AutoGenerate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/strings/AutoGenerate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study1/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study1/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study1/MinAccountBalValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study1/MinAccountBalValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study2/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study2/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study2/Travel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/caseStudy/study2/Travel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/InheritClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/InheritClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/ParentOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/ParentOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/ParentTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/ParentTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/TestCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/TestCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/TestInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignments/basic/day5/selfReview/TestInterface.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1/assignment7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/AnimalInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment19/com/Wellsbank/account/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment24/ExceptionHandlingDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment25/com/exception/CheckedException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment25/com/exception/ExceptionDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1/assignment11/EmployeeGrade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advance1Day2/assignment1314/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find />
-      <find>CurrentAccount</find>
-      <find />
-      <find />
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/advance1Day2/assignment16/OverDraftAccount.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment16/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment17/Customer.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment17/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/PetAnimal.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/Hippo.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/Animal.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/Dog.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/Cat.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment18/AnimalInfo.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment31/EmployeeInfo.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment33/StringMock.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment33/TestStringMock.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment22/EmployeeInfo.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment26/OverDraftAccount.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment26/InsufficientBalanceException.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment26/SavingsAccount.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment26/Account.java" />
-        <option value="$PROJECT_DIR$/advance1Day2/assignment26/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance2/AddCustomer.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment1/AddCustomer.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment2/EntrySet.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment3/com/WellsBank/login/LoginDetails.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment4/Customer.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment4/CustomerDB.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment4/Login.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment4/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment5/Debug.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/Customer.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/Account.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/InsufficientBalanceException.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/UnAuthorizedWithdrawTransactionException.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment30/Employee.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment30/EmployeeInfo.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/WithdrawTransaction.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/Security.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment6/DepositTransaction.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment7/WellsBank.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment7/Security.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment7/DepositTransaction.java" />
-        <option value="$PROJECT_DIR$/advance2/assignment7/WithdrawTransaction.java" />
-        <option value="$PROJECT_DIR$/Test/Demo.java" />
-        <option value="$PROJECT_DIR$/Test/TestDemo.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment32/Employee.java" />
-        <option value="$PROJECT_DIR$/advance1Day3/assignment32/TestReflection.java" />
-        <option value="$PROJECT_DIR$/basic/day2/assignment5/Student.java" />
-        <option value="$PROJECT_DIR$/basic/day2/assignment7/Student.java" />
-        <option value="$PROJECT_DIR$/basic/day2/assignment7/PassByVal.java" />
-        <option value="$PROJECT_DIR$/basic/day5/Assignment3.java" />
-        <option value="$PROJECT_DIR$/advance1/assignment7.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="877" />
-    <option name="height" value="813" />
-  </component>
+  <component name="ProjectId" id="1ObIpquDiYYP2PFPi8RXPIks3Ot" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="advance1Day3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="advance1Day3" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/advance2/assignment7" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/advance3/assignment1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="basic.day2.assignment7" />
-      <recent name="advance2.assignment6" />
-      <recent name="advance1Day3.assignment32" />
-      <recent name="advance1Day3.assignment29" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/advance2/assignment7" />
-      <recent name="$PROJECT_DIR$/advance1Day2/assignment26" />
-      <recent name="$PROJECT_DIR$/advance1Day2/assignment17" />
-      <recent name="$PROJECT_DIR$/advance1Day2/assignment16" />
-      <recent name="$PROJECT_DIR$/advance1Day2/assignment15" />
+      <recent name="$PROJECT_DIR$/advance3/assignment1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,13 +296,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CourseReg">
-    <configuration name="CourseManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.day3.assignment1.CourseManagement" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.day2.Assignment2" />
       <module name="Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.day3.assignment1.*" />
+          <option name="PATTERN" value="basic.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseReg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.day4.assignment4.CourseReg" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.Main" />
       <module name="Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.day4.assignment4.*" />
+          <option name="PATTERN" value="Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassByVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.day2.assignment7.PassByVal" />
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance3.assignment2.Starter" />
       <module name="Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.day2.assignment7.*" />
+          <option name="PATTERN" value="advance3.assignment2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.TestDemo" />
+    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1.tes" />
       <module name="Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,26 +349,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advance1Day3.assignment32.TestReflection" />
-      <module name="Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advance1Day3.assignment32.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="empValidate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Assignments/JS Assignments/Assignment 8/empValidate.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CourseReg" />
-        <item itemvalue="Application.CourseManagement" />
-        <item itemvalue="Application.PassByVal" />
-        <item itemvalue="Application.TestReflection" />
-        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.tes" />
+        <item itemvalue="Application.Assignment2" />
+        <item itemvalue="JavaScript Debug.empValidate.html" />
+        <item itemvalue="Application.Starter" />
       </list>
     </recent_temporary>
   </component>
@@ -345,418 +367,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6586a1e8-12a7-4e56-8f68-5f2323f4e0aa" name="Default Changelist" comment="" />
-      <created>1563514859009</created>
+      <changelist id="20693f45-23ae-4c0f-81f0-6c45d3cb86ec" name="Default Changelist" comment="" />
+      <created>1564240054199</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563514859009</updated>
+      <updated>1564240054199</updated>
+      <workItem from="1564240055693" duration="1527000" />
+      <workItem from="1564344269093" duration="10000" />
+      <workItem from="1564767047235" duration="7434000" />
+      <workItem from="1564857044446" duration="4650000" />
+      <workItem from="1564870877052" duration="4000" />
+      <workItem from="1565018189937" duration="6377000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="877" height="813" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23473054" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994452" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871014" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment1/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/Assignment2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/Assignment3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment4/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment4/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/Assignment5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/Assignment6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment7/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment8/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day3/assignment8/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment2/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment1/Hostelite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment1/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment1/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment2/Hostelite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment2/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment3/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment4/CourseReg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment4/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment4/DayScholar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment5/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment5/DayScholar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment7/DayScholar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment8/CourseManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day5/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day5/Assignment3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment5/PostGraduateStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment6/DynamicEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment6/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/day4/assignment6/DayScholar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/Assignment2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/Assignment3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/Assignment4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment8/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment9/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment9/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment11/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment11/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment1314/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1/assignment7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/AnimalInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment18/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment19/com/Wellsbank/account/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment24/ExceptionHandlingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment25/com/exception/CheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance1Day2/assignment25/com/exception/ExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

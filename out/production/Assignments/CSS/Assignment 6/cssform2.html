@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bank</title>
+	<style type="text/css">
+		.whole{
+			text-align: center;
+			/*border: 1px solid black;*/
+		}
+
+		.dropdown,.accountInfo,.amo,.transaction{
+			color: blue;
+			/*margin-left: 100px;*/
+			/*padding-right: 100px;*/
+
+		}
+
+		.menu{
+			margin-left: 100px; 
+			color: red;
+		}
+
+		.acc{
+			margin-left: 50px;
+			color: red;
+		}
+
+		.dollar{
+			margin-left: 140px;
+			color: red;
+		}
+
+		.trans {
+			margin-left: 60px;
+			color: red;
+		}
+		.desc{
+			border:thin ;
+		}
+
+		.press{
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<div class="whole">
+		<h3> Bank </h3>
+		<h4> Fund Transfer </h4>
+
+		<form class="desc">
+			<p class="dropdown">
+			Pay To  <select class="menu">
+				<option value="Jack">Jack</option>
+				<option value="Vishwa">Vishwa</option>
+				<option value="Patel">Patel</option>
+			</select>
+		</p>
+			
+			<p class="accountInfo">
+			Pay from(Account No:) 
+			<input type="text" class="acc">
+			</p>
+
+			<p class="amo">
+			Amount :  
+			<input type="text" class="dollar">
+			</p>
+
+			<p class="transaction">
+			Transaction Remark : 
+			<input type="text" class="trans">
+			</p>
+
+			<button class="press">Transfer Funds</button>
+		</form>
+	</div>
+
+</body>
+</html>

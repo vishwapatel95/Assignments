@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Customer Authentication</title>
+	<style type="text/css">
+		.frb{
+			text-align:center;
+		}
+
+		table.center{
+			margin-left: auto;
+			margin-right: auto; 
+		}
+
+		body{
+			background-color: skyblue;
+		}
+	</style>	
+</head>
+<body>
+	<h4 class="frb"> Apply Form</h4>
+	<form>
+		<table border="2" class="center">
+			<tr>
+				<td> Name </td>
+				<td><input type="text" name="name">
+				</td>
+			</tr>
+
+			<tr>
+				<td> Sex </td>
+				<td><input type="radio" name="bt1" value="Male">Male				<input type="radio" name="bt1" value="Female">Female</td>
+			</tr>
+
+			<tr>
+				<td> Interested in </td>
+				<td><input type="checkbox" name="box1" value="Current Account"> Current Account
+				<input type="checkbox" name="box1" value="Current Account"> Current Account
+				<input type="checkbox" name="box2" value="Debit Card"> Debit Card<br>
+				<input type="checkbox" name="box3" value="Credit card"> Credit Card
+				<input type="checkbox" name="box4" value="Insurance plan"> Insurance Plan</td>
+			</tr>
+
+			<tr>
+				<td> Email</td>
+				<td><input type="text" name="email" value=""></td>
+			</tr>
+
+			<tr>
+				<td> Date Of Birth </td>
+				<td>
+					<select name="abc">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+				</select>
+	
+				<select>
+					<option value="Jan">Jan</option>
+					<option value="Feb">Feb</option>
+				</select>
+
+				<select>
+					<option value="1995"> 1995 </option>
+					<option value="2000">2000 </option>
+				</select></td>
+			</tr>
+
+			<tr>
+				<td> Attach Id Proof </td>
+				<td><input type="text" name="txt">
+					<input type="file" name="txtfile">
+				</td>
+			</tr>
+
+			<tr>
+				<td>Comments</td>
+				<td><textarea></textarea></td>
+			</tr>
+
+			<tr>
+				<td><input type="submit" name="submit">
+				<input type="button" name="reset" value="reset"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

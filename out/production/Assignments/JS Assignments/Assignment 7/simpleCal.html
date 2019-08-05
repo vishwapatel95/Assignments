@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+	<script type="text/javascript" id = "val">
+		function funDisp(){
+			 result = (parseInt(document.getElementById("num11").value)) + (parseInt(document.getElementById("num22").value));
+
+			alert(result);
+			return result;
+		}
+
+		function subtract(){
+			subResult = (parseInt(document.getElementById("num11").value)) - (parseInt(document.getElementById("num22").value));
+			alert(subResult);
+			return subResult;
+		}
+
+		function divVal(){
+			divResult = (parseInt(document.getElementById("num11").value)) / (parseInt(document.getElementById("num22").value));
+			return divResult;
+		}
+
+		function multiVal(){
+			multiResult = (parseInt(document.getElementById("num11").value)) * (parseInt(document.getElementById("num22").value));
+			return multiResult;
+		}
+
+		function checkInp()
+		{
+ 		   var x=document.forms["num11"]["num1"].value;
+   		   var regex=/^[0-9]+$/;
+   		   if (x.match(regex))
+   		   {
+       		 alert("Must input numbers");
+        	 return false;
+        	}
+        }
+	</script>
+</head>
+<body>
+	
+		Number 1 : <input type = "text" name="num1" id="num11" value = "" oninput="checkInput()"><br>
+		Number 2 : <input type = "text" name="num2" id ="num22" value=""><br>
+		<!-- <input type = "text" name="num3" id ="num33" value=document.getElementById("val").fun -->
+		<input type = "Submit" name="Add" onclick="funDisp()">
+
+		<input type = "Submit" name="subtractval" onclick="subtract()"><br>
+
+		<input type = "Submit" name="Add" onclick="divVal()">
+		<input type = "Submit" name="Add" onclick="multiVal()">
+
+</body>
+</html>

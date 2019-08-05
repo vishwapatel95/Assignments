@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Assignment 8</title>
+	<script>
+		function isEmpty(input) {
+
+			if (input.toString().length == 0) {
+				return 0
+			}
+
+			return 1;
+		}
+
+		function onlySpaces(input) {
+			data = input.toString().split("");
+			for (i = 0; i < data.length; i++) {
+				if (data[i] != " ") {
+					return 1;
+				}
+			}
+			return 0;
+		}
+
+		function onlyDigits(input) {
+			var isnum = /^\d+$/.test(input);
+			if (isnum) return 0;
+			return 1;
+		}
+
+		function onlyalphabets(input) {
+			var isnum = /^\d+$/.test(input);
+			if (isnum) return 1;
+			return 0;
+
+		}
+
+		function validateEmpDetails() {
+			data = document.getElementById("1").value.toString();
+			nameData = document.getElementById("2").value.toString();
+			var idNumberTrue = false;
+			var nameTure = false;
+			if (isEmpty(data) == 1) {
+				if (onlySpaces(data) == 1) {
+					if (onlyDigits(document.getElementById("1").value) == 0) {
+						idNumberTrue = true;
+
+					} else {
+						return alert("Employe number contains only digit")
+					}
+				} else
+					return alert("Employee number can not contain Only spaces")
+			} else {
+				return alert("Emp no can not be empty string")
+			}
+
+			if (isEmpty(nameData) != 0) {
+				if (onlyalphabets() == 0) {
+					nameTure = true;
+
+				} else {
+					return alert("Name  not contain number")
+				}
+			} else {
+				return alert("Name is empty")
+			}
+
+			if (idNumberTrue && nameTure) {
+				window.location.replace("sceess.html")
+			}
+		}
+
+	</script>
+</head>
+<body>
+<div align="center">
+	Employee Number <input type="text" id="1" value="">
+
+	Employee Name <input type="text" id="2" value="">
+	<input type="submit" onclick="validateEmpDetails()">
+
+
+</div>
+</body>
+</html>

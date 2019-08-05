@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>val</title>
+        <script>function check() {
+
+    var inputName = document.getElementById("name").value;
+    email = document.getElementById("email").value.toString();
+    inputDate = document.getElementById("dob").value;
+    if(inputName.match(/\d+/g).map(Number)!=null){
+        alert("invilid name");
+    }
+    if(inputName.length<3){
+        alert("Name should be atlease 3 char")
+    }
+    if(email.indexOf("@")==email.lastIndexOf("@") &&(email.lastIndexOf(".")>email.indexOf("@")))
+    {
+
+    }
+    else {
+        alert("Invilid Email")
+    }
+}
+</script>
+</head>
+<body bgcolor="#ffe4c4">
+<div align="center">
+        <h1>INFY BANK</h1>
+        <h3>Customer Registration form</h3>
+
+            <table>
+                <tr>
+                    <td>Customer Name</td>
+                    <td><input type="text" name="name" id="name" value=""></td>
+
+                </tr>
+
+                <tr>
+                    <td>Date Of Birth</td>
+                    <td><input type="date" name="dob" id="dob" value=""></td>
+
+                </tr>
+
+                <tr>
+                    <td>Email</td>
+                    <td><input type="email" name="email" id="email" value=""></td>
+
+                </tr>
+                <tr>
+                    <td><font color="#a52a2a">(*) Mandatory</font></td>
+                    <td><input type="submit" name="submit" onclick="check()"></td>
+
+                </tr>
+
+            </table>
+
+</div>
+
+</body>
+</html>

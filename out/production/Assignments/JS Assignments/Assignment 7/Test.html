@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form </title>
+	<script type="text/javascript">
+		function getVal(){
+			result = (parseInt(document.frm1.txt1.value ))+  (parseInt(document.frm1.txt2.value));
+
+			document.frm1.output.value =result;
+		}
+	</script>
+</head>
+<body>
+<h1> Form Demo </h1>
+
+<form name="frm1">
+	Number 1 : <input type="text" name="txt1"  value=""><br>
+	Number 2: <input type="text" name="txt2" value=""><br>
+	Result : <input type="text" name="output" value=""> <br> 
+
+	<input type="button" value="Add" onclick="getVal()">
+</form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+	<script type="text/javascript" id = "val">
+		function funDisp(){
+			 result = (parseInt(document.getElementById("num11").value)) + (parseInt(document.getElementById("num22").value));
+
+			alert(result);
+			return result;
+		}
+	</script>
+</head>
+<body>
+	
+		<input type = "text" name="num1" id="num11" value = ""><br>
+		<input type = "text" name="num2" id ="num22" value=""><br>
+		<!-- <input type = "text" name="num3" id ="num33" value=document.getElementById("val").fun -->Disp()><br>
+		<input type = "submit" name="but1" onclick="funDisp()"><br>
+	
+
+</body>
+</html>

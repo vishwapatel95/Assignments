@@ -1,0 +1,56 @@
+(a) select f.trainer_id,(select t.trainerName from trainer t where t.trainerID = f.trainer_id ),c.courseName from feedback f,courseDetails c where f.courseId = c.courseId;
+1|Abraham|Programming fundamentals
+2|Boyce|Rdbms
+3|Camilla|Oracle 9i
+4|Davis|Visual Basic
+5|Elsa|Programming fundamentals
+1|Abraham|Programming fundamentals
+3|Camilla|Java
+
+(b) select t.trainerName from trainer t,feedback f where t.trainerId = f.trainer_Id group by f.trainer_Id having count(f.courseId)>1;
+Abraham
+Camilla
+
+(c) select t.trainerId, t.trainerName, (select c.courseName from courseDetails c where c.courseId = f.courseId) from trainer t, feedback f where t.trainerId = f.trainer_Id;
+1|Abraham|Rdbms
+1|Abraham|Programming fundamentals
+1|Abraham|Programming fundamentals
+1|Abraham|Java
+1|Abraham|Java JEE1
+1|Abraham|Oracle 9i
+1|Abraham|Visual Basic
+2|Boyce|Rdbms
+3|Camilla|Java
+3|Camilla|Oracle 9i
+4|Davis|Visual Basic
+5|Elsa|Programming fundamentals
+
+(D) select t.trainerId, t.trainerName, (select c.courseName from courseDetails c where c.courseId = f.courseId), (select count(b.course_Id) from batch_schedual b where b.course_Id = f.courseId) from trainer t, feedback f where t.trainerId = f.trainer_Id;
+1|Abraham|Rdbms|1
+1|Abraham|Programming fundamentals|2
+1|Abraham|Programming fundamentals|2
+1|Abraham|Java|1
+1|Abraham|Java JEE1|0
+1|Abraham|Oracle 9i|2
+1|Abraham|Visual Basic|0
+2|Boyce|Rdbms|1
+3|Camilla|Java|1
+3|Camilla|Oracle 9i|2
+4|Davis|Visual Basic|0
+5|Elsa|Programming fundamentals|2
+
+(E) select julianday(end_date) - julianday(start_date) from batch_schedual;
+10.0
+10.0
+9.0
+10.0
+11.0
+6.0
+
+
+(G) select trainer_Id, batchName from feedback group by batchName having count(courseId)>1;
+4|Batch1
+3|Batch3
+
+(H) select f.trainer_id from feedback f group by f.trainer_id having count(f.courseId)>=(select count(distinct courseId) from courseDetails);
+1

@@ -2,18 +2,44 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Stop Watch</title>
-</head>
-<body>
-    <h2>Stop Watch</h2><br>
-    <input type="text" name="txt1"><br>
-    <input type="button" name="btn1" value="Start">
-    <input type="button" name="btn2" value="Stop">
-
-    <script language="JavaScript">
-        function startsecond(){
-
+    <title>Stop watch</title>
+    <script>
+        time = 0;
+        min = 0;
+        hr = 0;
+        clicks = 0;
+        function start() {
+            document.getElementById("1").value = "Stop";
+            // hr=time%3600;
+            time++;
+            document.getElementById("data").value = hr + ":" + min + ":" + time % 59;
+            if (time % 59 == 0) {
+                min++;
+                if (min % 59 == 0) {
+                    hr++;
+                }
+            }
+            t = setTimeout(start, 1000);
+        }
+        function stop() {
+            var p = clearTimeout(t);
+            document.getElementById("1").value = "Reset";
+            if (clicks % 2 == 0) {
+                document.getElementById("data").value ="0:0:0";
+                time = 0;
+                min = 0;
+                hr = 0;
+            }
+            clicks++;
         }
     </script>
+
+</head>
+<body>
+<h2>Stop watch</h2>
+<input type="text" name="data" value="" id="data"><br>
+<button type="button" onclick="start()">Start</button>
+<input type="button" onclick="stop()" value="stop" id="1">
+<p id="tirth"></p>
 </body>
 </html>
